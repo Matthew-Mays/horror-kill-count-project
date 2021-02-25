@@ -1,50 +1,50 @@
-MName,Release_Date,RT_Score,Kill_Count
-Friday the 13th,05/09/1980,0.64,NULL
-Friday the 13th Pt. 2,04/30/1981,0.27,NULL
-Friday the 13th Pt. 3,08/13/1982,0.11,NULL
-Friday the 13th: The Final Chapter,04/13/1984,0.23,NULL
-Friday the 13th: A New Beginning,03/22/1985,0.18,NULL
-Friday the 13th: Jason Lives,08/01/1986,0.5,NULL
-Friday the 13th: The New Blood,05/13/1988,0.35,NULL
-Friday the 13th: Jason Takes Manhatton,07/28/1989,0.08,NULL
-Jason Goes To Hell: The Final Friday,08/13/1993,0.2,NULL
-Jason X,04/26/2002,0.2,NULL
-Freddy vs. Jason,08/13/2003,0.41,NULL
-Friday the 13th (2009 Reboot),02/13/2009,0.26,NULL
-Scream,12/20/1996,0.79,NULL
-Scream 2,12/12/1997,0.81,NULL
-Scream 3,02/04/2000,0.4,NULL
-Scream 4,04/15/2011,0.6,NULL
-The Thing,06/25/1985,0.85,NULL
-The Thing (2011 Remake),10/10/2011,0.34,NULL
-Night of the Living Dead,10/01/1968,0.97,NULL
-Get Out,02/24/2017,0.98,NULL
-Child's Play,11/09/1988,0.71,NULL
-Child's Play 2,11/09/1990,0.44,NULL
-Child's Play 3,08/30/1991,0.29,NULL
-Stephen King's It,11/18/1990,0.67,NULL
-Bride of Chucky,10/16/1998,0.46,NULL
-Seed of Chucky,11/12/2004,0.34,NULL
-Curse of Chucky,08/02/2013,0.76,NULL
-Cult of Chucky,10/20/2017,0.79,NULL
-You're Next,08/23/2013,0.79,NULL
-The Mist,11/21/2007,0.71,NULL
-Trick r' Treat,10/04/2009,0.83,NULL
-Alien,05/25/1979,0.98,NULL
-Aliens,07/18/1986,0.97,NULL
-Alien 3,05/22/1992,0.44,NULL
-ThanksKilling,12/08/2008,0.42,NULL
-Alien Resurrection,11/26/1997,0.54,NULL
-Black Christmas,12/20/1974,0.71,NULL
-Black Christmas (2006 Remake),12/25/2006,0.16,NULL
-Krampus,12/04/2015,0.67,NULL
-New Year's Evil,12/19/1980,0.14,NULL
-Killer Clowns From Outer Space,05/27/1988,0.75,NULL
-IT (2017),09/05/2017,0.86,NULL
-A Nightmare on Elm Street,11/16/1984,0.94,NULL
-A Nightmare on Elm Street 2: Freddy's Revenge,11/01/1985,0.43,NULL
-A Nightmare on Elm Street 3: Dream Warriors,02/27/1987,0.72,NULL
-A Nightmare on Elm Street 4: The Dream Master,08/19/1988,0.53,NULL
-A Nightmare on Elm Street 5: The Dream Child,08/11/1989,0.31,NULL
-Freddy's Dead: The Final Nightmare,09/13/1991,0.19,NULL
-My Bloody Valentine,02/11/1981,0.56,NULL
+title,date,rt_score,kc,length
+Friday the 13th,05/09/1980,0.64,10,95
+Friday the 13th Pt. 2,04/30/1981,0.27,9,87
+Friday the 13th Pt. 3,08/13/1982,0.11,12,95
+Friday the 13th: The Final Chapter,04/13/1984,0.23,14,91
+Friday the 13th: A New Beginning,03/22/1985,0.18,NULL,
+Friday the 13th: Jason Lives,08/01/1986,0.5,NULL,
+Friday the 13th: The New Blood,05/13/1988,0.35,NULL,
+Friday the 13th: Jason Takes Manhatton,07/28/1989,0.08,NULL,
+Jason Goes To Hell: The Final Friday,08/13/1993,0.2,NULL,
+Jason X,04/26/2002,0.2,NULL,
+Freddy vs. Jason,08/13/2003,0.41,NULL,
+Friday the 13th (2009 Reboot),02/13/2009,0.26,NULL,
+Scream,12/20/1996,0.79,NULL,
+Scream 2,12/12/1997,0.81,NULL,
+Scream 3,02/04/2000,0.4,NULL,
+Scream 4,04/15/2011,0.6,NULL,
+The Thing,06/25/1985,0.85,NULL,
+The Thing (2011 Remake),10/10/2011,0.34,NULL,
+Night of the Living Dead,10/01/1968,0.97,NULL,
+Get Out,02/24/2017,0.98,NULL,
+Child's Play,11/09/1988,0.71,NULL,
+Child's Play 2,11/09/1990,0.44,NULL,
+Child's Play 3,08/30/1991,0.29,NULL,
+Stephen King's It,11/18/1990,0.67,NULL,
+Bride of Chucky,10/16/1998,0.46,NULL,
+Seed of Chucky,11/12/2004,0.34,NULL,
+Curse of Chucky,08/02/2013,0.76,NULL,
+Cult of Chucky,10/20/2017,0.79,NULL,
+You're Next,08/23/2013,0.79,NULL,
+The Mist,11/21/2007,0.71,NULL,
+Trick r' Treat,10/04/2009,0.83,NULL,
+Alien,05/25/1979,0.98,NULL,
+Aliens,07/18/1986,0.97,NULL,
+Alien 3,05/22/1992,0.44,NULL,
+ThanksKilling,12/08/2008,0.42,NULL,
+Alien Resurrection,11/26/1997,0.54,NULL,
+Black Christmas,12/20/1974,0.71,NULL,
+Black Christmas (2006 Remake),12/25/2006,0.16,NULL,
+Krampus,12/04/2015,0.67,NULL,
+New Year's Evil,12/19/1980,0.14,NULL,
+Killer Clowns From Outer Space,05/27/1988,0.75,NULL,
+IT (2017),09/05/2017,0.86,NULL,
+A Nightmare on Elm Street,11/16/1984,0.94,NULL,
+A Nightmare on Elm Street 2: Freddy's Revenge,11/01/1985,0.43,NULL,
+A Nightmare on Elm Street 3: Dream Warriors,02/27/1987,0.72,NULL,
+A Nightmare on Elm Street 4: The Dream Master,08/19/1988,0.53,NULL,
+A Nightmare on Elm Street 5: The Dream Child,08/11/1989,0.31,NULL,
+Freddy's Dead: The Final Nightmare,09/13/1991,0.19,NULL,
+My Bloody Valentine,02/11/1981,0.56,NULL,
