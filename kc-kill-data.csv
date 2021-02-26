@@ -1,46 +1,171 @@
-name,kill_order,mtype,mwep,gc,dm,title
-Barry,1,stab (gut),knife,No,No,Friday the 13th
-Claudette,2,unknown,unknown,No,Yes,Friday the 13th
-Annie Phillips,3,slash (throat),knife,No,No,Friday the 13th
-Ned Rubinstein,4,slash (throat),unknown,No,No,Friday the 13th
-Jack Burrell,5,stab (throat),arrow,Yes,No,Friday the 13th
-Marcie Stanler,6,chop (head),axe,No,No,Friday the 13th
-Steve Christy,7,stab (gut),unknown,No,No,Friday the 13th
-Bill Brown,8,pincushion,arrow,No,No,Friday the 13th
-Brenda Jones,9,unknown,unknown,No,No,Friday the 13th
-Pamela Voorhees,10,decapitated,machete,No,No,Friday the 13th
-Alice Hardy,1,stab (head),ice pick,No,No,Friday the 13th Pt. 2
-Crazy Ralph,2,garrotted,barbed wire,No,No,Friday the 13th Pt. 2
-Deputy Winslow,3,bludgeoned (head),hammer,No,No,Friday the 13th Pt. 2
-Scott,4,slash (throat),machete,No,No,Friday the 13th Pt. 2
-Mark,5,chop (head),machete,Yes,No,Friday the 13th Pt. 2
-Jeff,6,stab (back),spear,No,No,Friday the 13th Pt. 2
-Sandra,7,stab (gut),spear,No,No,Friday the 13th Pt. 2
-Vicki,8,stab (gut),knife,No,No,Friday the 13th Pt. 2
-Terry,9,unknown,unknown,No,Yes,Friday the 13th Pt. 2
-Harold,1,chop (head),cleaver,No,No,Friday the 13th Pt. 3
-Edna,2,stab (head),knitting needle,No,No,Friday the 13th Pt. 3
-Fox,3,stab (neck),pitchfork,No,No,Friday the 13th Pt. 3
-Loco,4,stab (gut),pitchfork,No,No,Friday the 13th Pt. 3
-Vera,5,shot (eye),harpoon,No,No,Friday the 13th Pt. 3
-Andy,6,chop (crotch),machete,No,No,Friday the 13th Pt. 3
-Debbie,7,stab (back),machete,No,No,Friday the 13th Pt. 3
-Shelly,8,slash (throat),unknown,No,No,Friday the 13th Pt. 3
-Chuck,9,electrocuted,electricity,No,No,Friday the 13th Pt. 3
-Chili,10,stab (gut),fire poker,No,No,Friday the 13th Pt. 3
-Rick,11,head crushed,hands,Yes,Yes,Friday the 13th Pt. 3
-Ali ,12,hacked,machete,No,No,Friday the 13th Pt. 3
-Axel,1,slash (throat),bone saw,No,No,Friday the 13th: The Final Chapter
-Morgan,2,stab (gut),scalpel,No,No,Friday the 13th: The Final Chapter
-Hitchhiker,3,stab (throat),knife,No,No,Friday the 13th: The Final Chapter
-Samantha,4,stab (gut),unknown,No,No,Friday the 13th: The Final Chapter
-Paul,5,stab (crotch),harpoon,No,No,Friday the 13th: The Final Chapter
-Terri,6,stab (back),spear,No,No,Friday the 13th: The Final Chapter
-Mrs. Jarvis,7,unknown,unknown,No,Yes,Friday the 13th: The Final Chapter
-Jimmy,8,chop (head),cleaver,No,No,Friday the 13th: The Final Chapter
-Tina,9,thrown,gravity,No,No,Friday the 13th: The Final Chapter
-Ted,10,stab (head),knife,No,No,Friday the 13th: The Final Chapter
-Doug,11,head crushed,hands,No,No,Friday the 13th: The Final Chapter
-Sarah,12,chop (chest),axe,No,No,Friday the 13th: The Final Chapter
-Rob,13,unknown,unknown,No,No,Friday the 13th: The Final Chapter
-Jason Voorhees,14,chop (head),machete,Yes,No,Friday the 13th: The Final Chapter
+name,kill_order,mtype,mwep,gc,dm,title,is_female
+Barry,1,stab (gut),knife,No,No,Friday the 13th,0
+Claudette,2,unknown,unknown,No,Yes,Friday the 13th,1
+Annie Phillips,3,slash (throat),knife,No,No,Friday the 13th,1
+Ned Rubinstein,4,slash (throat),unknown,No,No,Friday the 13th,0
+Jack Burrell,5,stab (throat),arrow,Yes,No,Friday the 13th,0
+Marcie Stanler,6,chop (head),axe,No,No,Friday the 13th,1
+Steve Christy,7,stab (gut),unknown,No,No,Friday the 13th,0
+Bill Brown,8,pincushion,arrow,No,No,Friday the 13th,0
+Brenda Jones,9,unknown,unknown,No,No,Friday the 13th,1
+Pamela Voorhees,10,decapitated,machete,No,No,Friday the 13th,1
+Alice Hardy,1,stab (head),ice pick,No,No,Friday the 13th Pt. 2,1
+Crazy Ralph,2,garrotted,barbed wire,No,No,Friday the 13th Pt. 2,0
+Deputy Winslow,3,bludgeoned (head),hammer,No,No,Friday the 13th Pt. 2,0
+Scott,4,slash (throat),machete,No,No,Friday the 13th Pt. 2,0
+Mark,5,chop (head),machete,Yes,No,Friday the 13th Pt. 2,0
+Jeff,6,stab (back),spear,No,No,Friday the 13th Pt. 2,0
+Sandra,7,stab (gut),spear,No,No,Friday the 13th Pt. 2,1
+Vicki,8,stab (gut),knife,No,No,Friday the 13th Pt. 2,1
+Terry,9,unknown,unknown,No,Yes,Friday the 13th Pt. 2,1
+Harold,1,chop (head),cleaver,No,No,Friday the 13th Pt. 3,0
+Edna,2,stab (head),knitting needle,No,No,Friday the 13th Pt. 3,1
+Fox,3,stab (neck),pitchfork,No,No,Friday the 13th Pt. 3,1
+Loco,4,stab (gut),pitchfork,No,No,Friday the 13th Pt. 3,0
+Vera,5,shot (eye),harpoon,No,No,Friday the 13th Pt. 3,1
+Andy,6,chop (crotch),machete,No,No,Friday the 13th Pt. 3,0
+Debbie,7,stab (back),machete,No,No,Friday the 13th Pt. 3,1
+Shelly,8,slash (throat),unknown,No,No,Friday the 13th Pt. 3,0
+Chuck,9,electrocuted,electricity,No,No,Friday the 13th Pt. 3,0
+Chili,10,stab (gut),fire poker,No,No,Friday the 13th Pt. 3,1
+Rick,11,head crushed,hands,Yes,Yes,Friday the 13th Pt. 3,0
+Ali ,12,hacked,machete,No,No,Friday the 13th Pt. 3,0
+Axel,1,slash (throat),bone saw,No,No,Friday the 13th: The Final Chapter,0
+Morgan,2,stab (gut),scalpel,No,No,Friday the 13th: The Final Chapter,1
+Unnamed,3,stab (throat),knife,No,No,Friday the 13th: The Final Chapter,1
+Samantha,4,stab (gut),unknown,No,No,Friday the 13th: The Final Chapter,1
+Paul,5,stab (crotch),harpoon,No,No,Friday the 13th: The Final Chapter,0
+Terri,6,stab (back),spear,No,No,Friday the 13th: The Final Chapter,1
+Mrs. Jarvis,7,unknown,unknown,No,Yes,Friday the 13th: The Final Chapter,1
+Jimmy,8,chop (head),cleaver,No,No,Friday the 13th: The Final Chapter,0
+Tina,9,thrown,gravity,No,No,Friday the 13th: The Final Chapter,1
+Ted,10,stab (head),knife,No,No,Friday the 13th: The Final Chapter,0
+Doug,11,head crushed,hands,No,No,Friday the 13th: The Final Chapter,0
+Sarah,12,chop (chest),axe,No,No,Friday the 13th: The Final Chapter,1
+Rob,13,unknown,unknown,No,No,Friday the 13th: The Final Chapter,0
+Jason Voorhees,14,chop (head),machete,Yes,No,Friday the 13th: The Final Chapter,0
+Neil,1,stab (gut),machete,No,No,Friday the 13th: A New Beginning,0
+Les,2,stab (neck),screw driver,No,No,Friday the 13th: A New Beginning,0
+Joey,3,chop (back),axe,No,No,Friday the 13th: A New Beginning,0
+Vinnie,4,burns,flare,No,No,Friday the 13th: A New Beginning,0
+Pete,5,slash (throat),unknown,No,No,Friday the 13th: A New Beginning,0
+Billy,6,chop (head),axe,No,No,Friday the 13th: A New Beginning,0
+Lana,7,chop (gut),axe,No,No,Friday the 13th: A New Beginning,1
+Raymond,8,stab (gut),knife,No,No,Friday the 13th: A New Beginning,0
+Tia,9,stab (head),shears,No,No,Friday the 13th: A New Beginning,1
+Eddie,10,head crushed,belt,Yes,No,Friday the 13th: A New Beginning,0
+Anita,11,slash (throat),unknown,No,No,Friday the 13th: A New Beginning,1
+Demon,12,stab (back),spike,No,No,Friday the 13th: A New Beginning,0
+Junior,13,decapitated,cleaver,No,No,Friday the 13th: A New Beginning,0
+Ethel,14,chop (head),cleaver,No,No,Friday the 13th: A New Beginning,1
+Jake,15,chop (head),cleaver,No,No,Friday the 13th: A New Beginning,0
+Robin,16,stab (back),machete,No,No,Friday the 13th: A New Beginning,1
+Violet,17,stab (gut),machete,No,Yes,Friday the 13th: A New Beginning,1
+Duke,18,slash (throat),unknown,No,No,Friday the 13th: A New Beginning,0
+Matthew Letter,19,stab (head),piton,No,No,Friday the 13th: A New Beginning,0
+George,20,eyes gouged,unknown,No,No,Friday the 13th: A New Beginning,0
+Roy Burns,21,falling (spikes),spike,No,No,Friday the 13th: A New Beginning,0
+Pam,22,stab (gut),machete,No,No,Friday the 13th: A New Beginning,1
+Allen Hawes,1,stab (chest),hands,No,No,Friday the 13th: Jason Lives,0
+Darren,2,stab (gut),spear,No,No,Friday the 13th: Jason Lives,0
+Lizbeth,3,drowned,water,No,No,Friday the 13th: Jason Lives,1
+Burt,4,head crushed,tree,No,No,Friday the 13th: Jason Lives,0
+Stan,5,decapitated,machete,No,No,Friday the 13th: Jason Lives,0
+Katie,6,decapitated,machete,No,No,Friday the 13th: Jason Lives,1
+Larry,7,decapitated,machete,No,No,Friday the 13th: Jason Lives,0
+Martin,8,stab (throat),bottle,No,No,Friday the 13th: Jason Lives,0
+Steven,9,stab (gut),machete,No,No,Friday the 13th: Jason Lives,0
+Annette,10,stab (gut),machete,No,No,Friday the 13th: Jason Lives,1
+Nikki,11,head crushed,hands,No,No,Friday the 13th: Jason Lives,1
+Cort,12,stab (head),knife,No,No,Friday the 13th: Jason Lives,0
+Roy,13,dismembered,machete,No,No,Friday the 13th: Jason Lives,0
+Sissy,14,head twist,hands,Yes,No,Friday the 13th: Jason Lives,1
+Paula,15,unknown,unknown,No,Yes,Friday the 13th: Jason Lives,1
+Thornton,16,stab (head),knife,No,No,Friday the 13th: Jason Lives,0
+Pappas,17,head crushed,hands,No,No,Friday the 13th: Jason Lives,0
+Garris,18,back broken,hands,No,No,Friday the 13th: Jason Lives,0
+John Shepard,1,drowned,water,No,No,Friday the 13th: The New Blood,0
+Jane,2,stab (head),spike,No,No,Friday the 13th: The New Blood,1
+Michael,3,stab (back),spike,No,No,Friday the 13th: The New Blood,0
+Dan,4,stab (back),hands,No,No,Friday the 13th: The New Blood,0
+Judy,5,crushed,hands,No,No,Friday the 13th: The New Blood,1
+Russell,6,chop (head),axe,No,No,Friday the 13th: The New Blood,0
+Sandra,7,drowned,water,No,No,Friday the 13th: The New Blood,1
+Maddy,8,stab (gut),scythe,No,Yes,Friday the 13th: The New Blood,1
+Ben,9,head crushed,hands,No,No,Friday the 13th: The New Blood,0
+Kate,10,stab (head),party horn,Yes,No,Friday the 13th: The New Blood,1
+David,11,stab (gut),knife,No,No,Friday the 13th: The New Blood,0
+Eddie,12,chop (head),machete,No,No,Friday the 13th: The New Blood,0
+Robin,13,thrown,gravity,No,No,Friday the 13th: The New Blood,1
+Amanda Shepard,14,stab (back),spear,No,No,Friday the 13th: The New Blood,1
+Dr. Crews,15,slash (gut),weed-whacker,No,No,Friday the 13th: The New Blood,0
+Melissa,16,chop (head),axe,No,No,Friday the 13th: The New Blood,1
+Jim Miller,1,stab (gut),harpoon gun,No,No,Friday the 13th: Jason Takes Manhatton,0
+Suzi Donaldson,2,stab (chest),harpoon,No,No,Friday the 13th: Jason Takes Manhatton,1
+J.J. Jarrett,3,bludgeoned (head),guitar,No,No,Friday the 13th: Jason Takes Manhatton,1
+Unnamed,4,stab (chest),rock,No,No,Friday the 13th: Jason Takes Manhatton,0
+Tamara Mason,5,stab (chest),glass,No,No,Friday the 13th: Jason Takes Manhatton,1
+Jim Carlson,6,stab (back),harpoon,No,No,Friday the 13th: Jason Takes Manhatton,0
+Robertson,7,slash (throat),machete,No,No,Friday the 13th: Jason Takes Manhatton,0
+Eva Watanabe,8,strangled,hands,No,No,Friday the 13th: Jason Takes Manhatton,1
+Unknown,9,shot (chest),gun,No,No,Friday the 13th: Jason Takes Manhatton,0
+Wayne Webber,10,electrocuted,electricity,No,No,Friday the 13th: Jason Takes Manhatton,0
+Miles Wolfe,11,thrown,spike,No,No,Friday the 13th: Jason Takes Manhatton,0
+Unnamed,12,chop (back),axe,No,No,Friday the 13th: Jason Takes Manhatton,0
+Holmes,13,stab (back),syringe,No,No,Friday the 13th: Jason Takes Manhatton,0
+Jojo,14,head crushed,hands,No,No,Friday the 13th: Jason Takes Manhatton,0
+Julius Gaw,15,decapitated,hands,Yes,No,Friday the 13th: Jason Takes Manhatton,0
+Unnamed,16,unknown,unknown,No,No,Friday the 13th: Jason Takes Manhatton,0
+Colleen Van Deusen,17,explosion,car,No,No,Friday the 13th: Jason Takes Manhatton,1
+Charles Mccollough,18,drowned,sewage,No,No,Friday the 13th: Jason Takes Manhatton,0
+Unnamed,19,thrown,hands,No,Yes,Friday the 13th: Jason Takes Manhatton,0
+Unnamed,20,bludgeoned (head),wrench,No,No,Friday the 13th: Jason Takes Manhatton,0
+Jason Voorhees,1,explosion,grenade,No,No,Jason Goes To Hell: The Final Friday,0
+Unnamed,2,head crushed,hands,No,No,Jason Goes To Hell: The Final Friday,0
+Unnamed,3,unknown,unknown,No,No,Jason Goes To Hell: The Final Friday,0
+Unnamed,4,unknown,unknown,No,No,Jason Goes To Hell: The Final Friday,0
+Alexis,5,slashed,scalpel,No,No,Jason Goes To Hell: The Final Friday,1
+Deborah,6,stab (back),spike,Yes,No,Jason Goes To Hell: The Final Friday,1
+Luke,7,unknown,unknown,No,Yes,Jason Goes To Hell: The Final Friday,0
+Edna,8,head crushed,door,No,No,Jason Goes To Hell: The Final Friday,1
+Phil,9,possesed,possesion,No,No,Jason Goes To Hell: The Final Friday,0
+Diana Kimble,10,stab (back),knife,No,No,Jason Goes To Hell: The Final Friday,1
+Josh,11,possesed,possesion,Yes,No,Jason Goes To Hell: The Final Friday,0
+Ryan,12,head crushed,hands,No,No,Jason Goes To Hell: The Final Friday,1
+Mark,13,head crushed,hands,No,No,Jason Goes To Hell: The Final Friday,0
+Brian,14,head crushed,hands,No,No,Jason Goes To Hell: The Final Friday,0
+Ward,15,thrown,hands,No,No,Jason Goes To Hell: The Final Friday,0
+Unnamed,16,shot (unknown),gun,No,No,Jason Goes To Hell: The Final Friday,0
+Shelby,17,head fried,frier,No,No,Jason Goes To Hell: The Final Friday,0
+Joey,18,head crushed,elbow,No,No,Jason Goes To Hell: The Final Friday,1
+Vicki,19,head crushed,hands,No,No,Jason Goes To Hell: The Final Friday,1
+Robert Campbell,20,possesed,possesion,No,No,Jason Goes To Hell: The Final Friday,0
+Ed Landis,21,stab (gut),knife,No,No,Jason Goes To Hell: The Final Friday,0
+Randy Parker,22,possesed,possesion,No,No,Jason Goes To Hell: The Final Friday,0
+Creighton Duke,23,back broken,hands,No,No,Jason Goes To Hell: The Final Friday,0
+Jason Voorhees,24,dragged to hell,hell,No,No,Jason Goes To Hell: The Final Friday,0
+Johnson,1,unknown,unknown,,,Jason X,0
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
+,,,,,,Jason X,
