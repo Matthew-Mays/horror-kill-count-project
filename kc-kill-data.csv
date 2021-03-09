@@ -1,4 +1,4 @@
-name,kill_order,mtype,mwep,gc,dm,title,is_female
+name,kill_order,mtype,mwep,gc,dm,title,gender
 Barry,1,stab (gut),knife,No,No,Friday the 13th,0
 Claudette,2,unknown,unknown,No,Yes,Friday the 13th,1
 Annie Phillips,3,slash (throat),knife,No,No,Friday the 13th,1
@@ -144,28 +144,177 @@ Ed Landis,21,stab (gut),knife,No,No,Jason Goes To Hell: The Final Friday,0
 Randy Parker,22,possesed,possesion,No,No,Jason Goes To Hell: The Final Friday,0
 Creighton Duke,23,back broken,hands,No,No,Jason Goes To Hell: The Final Friday,0
 Jason Voorhees,24,dragged to hell,hell,No,No,Jason Goes To Hell: The Final Friday,0
-Johnson,1,unknown,unknown,,,Jason X,0
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
-,,,,,,Jason X,
+Johnson,1,unknown,unknown,No,No,Jason X,0
+Unnamed,2,bludgeoned (head),shovel,No,Yes,Jason X,0
+Unnamed,3,shot (chest),gun,No,Yes,Jason X,0
+Unnamed,4,choked,chain,No,Yes,Jason X,0
+Unnamed,5,bludgeoned (head),shovel,No,Yes,Jason X,0
+Wimmer,6,stab (back),shovel,No,No,Jason X,0
+Marcus,7,thrown,door,No,No,Jason X,0
+Adrienne,8,frozen,liquid nitrogen,Yes,No,Jason X,1
+Stoney,9,stab (gut),machete,No,No,Jason X,0
+Azrael,10,back broken,hands,No,No,Jason X,0
+Dallas,11,head crushed,hands,No,No,Jason X,0
+Sven,12,neck snapped,hands,No,No,Jason X,0
+Condor,13,thrown,spike,No,No,Jason X,0
+Geko,14,slash (throat),machete,No,No,Jason X,1
+Kicker,15,chop (gut),machete,No,No,Jason X,0
+Briggs,16,stab (back),spike,No,No,Jason X,1
+Lou,17,slash,machete,No,No,Jason X,0
+Lowe,18,decapitated,machete,No,No,Jason X,0
+Crutch,19,electrocuted,electricity,No,No,Jason X,0
+Kinsa,20,explosion,ship,No,No,Jason X,1
+Waylander,21,explosion,explosives,No,No,Jason X,0
+Janessa,22,ground up,grate,No,No,Jason X,1
+Unnamed,23,bludgeoned,hands,No,No,Jason X,1
+Unnamed,24,bludgeoned,hands,No,No,Jason X,1
+Brodski,25,burns,reentry,No,No,Jason X,0
+Heather,1,stab (gut),machete,No,No,Freddy vs. Jason,1
+Trey,2,stab (back),machete,Yes,No,Freddy vs. Jason,0
+Mr. Mueller,3,decapitated,machete,No,No,Freddy vs. Jason,0
+Blake,4,slash,machete,No,Yes,Freddy vs. Jason,0
+Gibb,5,stab (chest),spike,No,No,Freddy vs. Jason,1
+Unnamed,6,stab (back),spike,No,No,Freddy vs. Jason,0
+Unnamed,7,neck snapped,hands,No,No,Freddy vs. Jason,0
+Shack,8,stab (back),machete,No,No,Freddy vs. Jason,0
+Unamed,9,slash (chest),machete,No,No,Freddy vs. Jason,0
+Unnamed,10,slash (throat),machete,No,No,Freddy vs. Jason,0
+Unnamed,11,slash (chest),machete,No,No,Freddy vs. Jason,0
+Unnamed,12,slash (gut),machete,No,No,Freddy vs. Jason,0
+Unnamed,13,slash (chest),machete,No,No,Freddy vs. Jason,0
+Unnamed,14,slash,machete,No,No,Freddy vs. Jason,1
+Mark,15,slash (head),claws,No,No,Freddy vs. Jason,0
+Unnamed,16,crushed,door,No,No,Freddy vs. Jason,0
+Stubbs,17,electrocuted,electricity,No,No,Freddy vs. Jason,0
+Freeburg,18,chop (gut),machete,No,No,Freddy vs. Jason,0
+Mrs. Campbell,19,stab (gut),claws,No,No,Freddy vs. Jason,1
+Linderman,20,thrown,spike,No,No,Freddy vs. Jason,0
+Kia,21,slash (chest),machete,No,No,Freddy vs. Jason,1
+Freddy Krueger,22,decapitated,machete,No,No,Freddy vs. Jason,0
+Pamela Voorhees,1,decapitated,machete,No,No,Friday the 13th (2009 Reboot),1
+Wade,2,slash (throat),machete,No,No,Friday the 13th (2009 Reboot),0
+Amanda,3,burns,fire,Yes,No,Friday the 13th (2009 Reboot),1
+Mike,4,unknown,unknown,No,Yes,Friday the 13th (2009 Reboot),0
+Richie,5,chop (head),machete,No,No,Friday the 13th (2009 Reboot),0
+Donnie,6,slash (throat),machete,No,No,Friday the 13th (2009 Reboot),0
+Nolan,7,shot (head),arrow,No,No,Friday the 13th (2009 Reboot),0
+Chelsea,8,stab (head),machete,No,No,Friday the 13th (2009 Reboot),1
+Chewie,9,stab (neck),screw driver,No,No,Friday the 13th (2009 Reboot),0
+Lawrence,10,chop (back),axe,No,No,Friday the 13th (2009 Reboot),0
+Bree,11,stab (back),spike,No,No,Friday the 13th (2009 Reboot),1
+Bracke,12,stab (head),fire poker,No,No,Friday the 13th (2009 Reboot),0
+Trent,13,stab (back),machete,No,No,Friday the 13th (2009 Reboot),0
+Jenna,14,stab (back),machete,No,No,Friday the 13th (2009 Reboot),1
+Steve Orth,1,slash (gut),knife,No,No,Scream,0
+Casey Becker,2,stab (gut),knife,Yes,No,Scream,1
+Himbry,3,stab (gut),knife,No,Yes,Scream,0
+Tatem ,4,head crushed,garage door,No,No,Scream,1
+Kenny,5,slash (throat),knife,No,No,Scream,0
+Stu Macher,6,head crushed,television,No,No,Scream,0
+Billy Loomis,7,shot (head),gun,No,No,Scream,0
+Phil Stevens,1,stab (head),knife,No,No,Scream 2,0
+Maureen Evans,2,stab (gut),knife,No,No,Scream 2,1
+Cici Cooper,3,thrown,gravity,No,No,Scream 2,1
+Randy Meeks,4,stab,knife,No,No,Scream 2,0
+Andrews,5,slash (throat),knife,No,No,Scream 2,0
+Richards,6,stab (head),spike,Yes,No,Scream 2,0
+Hallie Mcdaniel,7,stab (chest),knife,No,No,Scream 2,1
+Derek Feldman,8,shot (chest),gun,No,Yes,Scream 2,0
+Debbie Loomis,9,shot (head),gun,No,No,Scream 2,1
+Micky Altieri,10,shot,gun,No,No,Scream 2,0
+Christine Hamilton,1,stab (back),knife,No,No,Scream 3,1
+Cotton Weary,2,stab (head),knife,No,No,Scream 3,0
+Sarah Darling,3,stab (back),knife,No,No,Scream 3,1
+Steven Stone,4,stab (back),knife,No,No,Scream 3,0
+Tom Prinze,5,explosion,gas,No,Yes,Scream 3,0
+Angelina Tyler,6,stab (chest),knife,No,No,Scream 3,1
+Tyson Fox,7,thrown,gravity,Yes,No,Scream 3,0
+Jennifer Jolie,8,stab (gut),knife,No,No,Scream 3,1
+John Milton,9,slash (throat),knife,No,No,Scream 3,0
+Roman Bridger,10,shot (head),gun,No,No,Scream 3,0
+Trudie,1,stab (chest),knife,No,No,Scream 4,1
+Sherrie,2,slash (throat),knife,No,No,Scream 4,1
+Rachel,3,stab (gut),knife,No,No,Scream 4,1
+Marnie Cooper,4,stab (gut),knife,No,No,Scream 4,1
+Jenny Randall,5,stab,knife,No,No,Scream 4,1
+Olivia Morris,6,stab (gut),knife,No,No,Scream 4,1
+Rebecca Walters,7,stab (gut),knife,No,No,Scream 4,1
+Hoss,8,stab (back),knife,No,Yes,Scream 4,0
+Perkins,9,stab (head),knife,Yes,No,Scream 4,0
+Kate Roberts,10,stab (back),knife,No,No,Scream 4,1
+Robbie Mercer,11,stab (chest),knife,No,No,Scream 4,0
+Kirby Reed,12,stab (gut),knife,No,No,Scream 4,1
+Trevor Sheldon,13,shot (head),gun,No,No,Scream 4,0
+Charlie Walker,14,stab (chest),knife,No,No,Scream 4,0
+Jill Roberts,15,shot (chest),gun,No,No,Scream 4,1
+Unnamed,1,explosion,grenade,No,No,The Thing,0
+Unnamed,2,shot (head),gun,No,No,The Thing,0
+George Bennings,3,assimilated,assimilation,No,No,The Thing,0
+Fuchs,4,unknown,unknown,No,No,The Thing,0
+Norris,5,heart attack,heart attack,No,Yes,The Thing,0
+Copper,6,bite (arms),bite,Yes,No,The Thing,0
+Clark,7,shot (head),gun,No,No,The Thing,0
+Palmer,8,assimilated,assimilation,No,No,The Thing,0
+Windows,9,bite (head),bite,No,No,The Thing,0
+Bair,10,assimilated,assimilation,No,No,The Thing,0
+Garry,11,assimilated,assimilation,No,No,The Thing,0
+Nauls,12,unknown,unknown,No,No,The Thing,0
+Henrik,1,stab (back),tentacle,No,No,The Thing (2011 Remake),0
+Griggs,2,assimilated,assimilation,No,No,The Thing (2011 Remake),0
+Olav,3,assimilated,assimilation,No,No,The Thing (2011 Remake),0
+Juliette,4,assimilated,assimilation,Yes,No,The Thing (2011 Remake),1
+Karl,5,stab (chest),spike,No,No,The Thing (2011 Remake),0
+Peder,6,shot (head),gun,No,No,The Thing (2011 Remake),0
+Edvard,7,assimilated,assimilation,No,No,The Thing (2011 Remake),0
+Adam Finch,8,assimilated,assimilation,No,No,The Thing (2011 Remake),0
+Jonas,9,assimilated,assimilation,No,No,The Thing (2011 Remake),0
+Derek,10,stab (chest),tentacle,No,Yes,The Thing (2011 Remake),0
+Sander Halvorson,11,assimilated,assimilation,No,No,The Thing (2011 Remake),0
+Carter,12,assimilated,assimilation,No,No,The Thing (2011 Remake),0
+Colin,13,suicide,razor,No,No,The Thing (2011 Remake),0
+Johnny,1,bludgeoned (head),hands,No,Yes,Night of the Living Dead,0
+Tom,2,explosion,car,No,No,Night of the Living Dead,0
+Judy,3,explosion,car,No,No,Night of the Living Dead,1
+Harry Cooper,4,shot (chest),gun,No,No,Night of the Living Dead,0
+Karen Cooper,5,bite,bite,No,No,Night of the Living Dead,1
+Helen Cooper,6,stab (gut),trowel,Yes,No,Night of the Living Dead,1
+Barbra,7,bite,bite,No,No,Night of the Living Dead,1
+Ben,8,shot (head),gun,No,No,Night of the Living Dead,0
+Jim Hudson,1,surgery,surgery,No,No,Get Out,0
+Dean Armitage,2,stab (chest),spike,Yes,No,Get Out,0
+Missy Armitage,3,stab (head),knife,No,No,Get Out,1
+Jeremy Armitage,4,head crushed,feet,No,No,Get Out,0
+Georgina,5,car crash,car,No,Yes,Get Out,1
+Walter,6,shot (head),gun,No,No,Get Out,0
+Rose Armitage,7,shot (gut),gun,No,No,Get Out,1
+Charles Lee Ray,1,shot,gun,No,Yes,Child's Play,0
+Maggie,2,thrown,gravity,No,No,Child's Play,1
+Eddie Caputo,3,explosion,gas,No,No,Child's Play,0
+John Bishop,4,voodoo,knife,No,No,Child's Play,0
+Ardmore,5,electrocuted,electricity,Yes,No,Child's Play,0
+Chucky,6,shot (chest),gun,No,No,Child's Play,0
+Unnamed,1,electrocuted,electricity,No,No,Child's Play 2,0
+Mattson,2,suffocated,plastic bag,No,No,Child's Play 2,0
+Kettlewell,3,bludgeoned,yard stick,No,No,Child's Play 2,1
+Phil Simpson,4,neck snapped,gravity,No,Yes,Child's Play 2,0
+Joanne Simpson,5,slash (throat),unknown,No,No,Child's Play 2,1
+Grace Poole,6,stab (chest),knife,No,No,Child's Play 2,1
+Unnamed,7,eyes gouged,machine,Yes,No,Child's Play 2,0
+Chucky,8,explosion,air,No,No,Child's Play 2,0
+Sullivan,1,garrotted,string,No,No,Child's Play 3,0
+Unnamed,2,crushed,trash compactor,No,No,Child's Play 3,0
+Cochrane,3,heart attack,heart attack,No,No,Child's Play 3,0
+Botnick,4,slash (throat),razor,No,No,Child's Play 3,0
+Brett Shelton,5,shot (chest),gun,No,No,Child's Play 3,0
+Harold Whitehurst,6,explosion,grenade,No,No,Child's Play 3,0
+Unnamed,7,shot (head),gun,No,Yes,Child's Play 3,0
+Chucky,8,ground up,fan,Yes,No,Child's Play 3,0
+Laurie Ann,1,unknown,unknown,No,No,Stephen King's It,1
+Georgie Denbrough,2,unknown,unknown,No,No,Stephen King's It,0
+Vic Criss,3,unknown,unknown,No,Yes,Stephen King's It,0
+Belch Higgins,4,back broken,sucction,Yes,No,Stephen King's It,0
+Stanley Uris,5,suicide,unknown,No,No,Stephen King's It,0
+Koontz,6,bite,bite,No,No,Stephen King's It,0
+Henry Bowers,7,stab (chest),knife,No,No,Stephen King's It,0
+Eddie Kaspbrak,8,crushed,claw,No,No,Stephen King's It,0
+Pennywise,9,heart ripped out,hands,No,No,Stephen King's It,2
