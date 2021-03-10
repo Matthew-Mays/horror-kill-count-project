@@ -318,3 +318,99 @@ Koontz,6,bite,bite,No,No,Stephen King's It,0
 Henry Bowers,7,stab (chest),knife,No,No,Stephen King's It,0
 Eddie Kaspbrak,8,crushed,claw,No,No,Stephen King's It,0
 Pennywise,9,heart ripped out,hands,No,No,Stephen King's It,2
+Bailey,1,slash (throat),knife,No,No,Bride of Chucky,0
+Damien,2,suffocated,pillow,No,No,Bride of Chucky,0
+Tiffany,3,electrocuted,electricity,No,No,Bride of Chucky,1
+Norton,4,explosion,car,No,No,Bride of Chucky,0
+Warren Kincaid,5,stab (back),knife,Yes,No,Bride of Chucky,0
+Russ,6,ground up,glass,No,No,Bride of Chucky,0
+Diane,7,ground up,glass,No,No,Bride of Chucky,1
+David,8,car crash,car,No,No,Bride of Chucky,0
+Unnamed,9,shot (head),gun,No,Yes,Bride of Chucky,0
+Unnamed,10,shot (head),gun,No,Yes,Bride of Chucky,1
+Unnamed,11,shot (head),gun,No,No,Bride of Chucky,0
+Chucky,12,shot (chest),gun,No,No,Bride of Chucky,0
+Tiffany,13,pregnancy,pregnancy,No,No,Bride of Chucky,1
+Preston,14,bite,bite,No,No,Bride of Chucky,0
+Richard,1,stab (chest),knife,No,No,Seed of Chucky,0
+Unnamed,2,bludgeoned (head),floor,No,No,Seed of Chucky,0
+Tony Gardner,3,decapitated,wire,No,No,Seed of Chucky,0
+Brtiney Spears,4,explosion,car,No,No,Seed of Chucky,1
+Pete Peters,5,burns,acid,No,No,Seed of Chucky,0
+Redman,6,stab (gut),knife,No,No,Seed of Chucky,0
+Joan,7,burns,fire,No,No,Seed of Chucky,1
+Unnamed,8,chop (head),machete,No,No,Seed of Chucky,0
+Unnamed,9,stab (back),knife,No,No,Seed of Chucky,0
+Unnamed,10,suffocated,bag,No,No,Seed of Chucky,0
+Stan,11,stab (chest),knife,No,Yes,Seed of Chucky,0
+Tiffany,12,chop (head),axe,No,No,Seed of Chucky,1
+Chucky,13,decapitated,axe,Yes,No,Seed of Chucky,0
+Fulvia,14,bludgeoned (head),doll,No,No,Seed of Chucky,1
+Sarah,1,stab (gut),scissors,No,No,Curse of Chucky,1
+Unnamed,2,car crash,car,No,No,Curse of Chucky,0
+Unnamed,3,car crash,car,No,No,Curse of Chucky,0
+Frank,4,decapitated,metal chunk,No,No,Curse of Chucky,0
+Jill,5,electrocuted,electricity,No,No,Curse of Chucky,1
+Barb,6,stab (head),knife,No,No,Curse of Chucky,1
+Ian,7,chop (head),axe,Yes,No,Curse of Chucky,0
+Daniel Pierce,8,drowned,unknown,No,Yes,Curse of Chucky,0
+Stanton,9,slash (throat),knife,No,No,Curse of Chucky,0
+Unnamed,10,suffocated,bag,No,No,Curse of Chucky,1
+Angela,1,slash (wrist),spike,No,No,Cult of Chucky,1
+Claire,2,decapitated,glass,No,No,Cult of Chucky,1
+Madeleine,3,spine ripped out,hands,No,No,Cult of Chucky,1
+Carlos,4,stab (chest),knife,No,No,Cult of Chucky,0
+Unnamed,5,slash (throat),knife,No,No,Cult of Chucky,0
+Foley,6,head crushed,feet,Yes,No,Cult of Chucky,0
+Ashley,7,stab (gut),drill,No,Yes,Cult of Chucky,1
+Malcolm,8,stab (head),drill,No,No,Cult of Chucky,0
+Chucky,9,head crushed,feet,No,No,Cult of Chucky,0
+Talia,1,unknown,machete,No,Yes,You're Next,1
+Erik Harson,2,slash,machete,No,No,You're Next,0
+Tariq,3,shot (head),bolt,No,No,You're Next,0
+Aimee Davison,4,slash (throat),wire,No,No,You're Next,1
+Aubrey Davison,5,chop (head),machete,No,No,You're Next,1
+Kelly Davison,6,chop (head),axe,No,No,You're Next,1
+Tiger Mask,7,bludgeoned (head),meat tenderizer,No,No,You're Next,0
+Paul Davison,8,slash (throat),machete,No,No,You're Next,0
+Drake Davison,9,stab (chest),screw driver,No,No,You're Next,0
+Lamb Mask,10,stab (head),knife,No,No,You're Next,0
+Wolf Mask,11,bludgeoned (head),log,No,No,You're Next,0
+Felix Davison,12,brain blended,blender,Yes,No,You're Next,0
+Zee,13,stab (head),knife,No,No,You're Next,1
+Crispian Davison,14,stab (head),knife,No,No,You're Next,0
+Trubiano,15,chop (head),axe,No,No,You're Next,0
+Unnamed,1,unknown,mist,,,The Mist,0
+Norm,2,ripped apart,tentacle,,,The Mist,0
+Norton,3,unknown,mist,,,The Mist,0
+Unnamed,4,unknown,mist,,,The Mist,0
+Unnamed,5,unknown,mist,,,The Mist,1
+Unnamed,6,unknown,mist,,,The Mist,0
+Unnamed,7,unknown,mist,,,The Mist,0
+Unnamed,8,unknown,mist,,,The Mist,0
+Unnamed,9,unknown,mist,,,The Mist,1
+Unnamed,10,torn in half,unknown,,,The Mist,0
+Tom,11,bite,bite,,,The Mist,0
+Sally,12,poisoned,insect,,,The Mist,1
+Hattie,13,suicide,pills,,,The Mist,1
+Unnamed,14,cocooned,insect,,,The Mist,3
+Unnamed,15,cocooned,insect,,,The Mist,3
+Unnamed,16,cocooned,insect,,,The Mist,3
+Unnamed,17,cocooned,insect,,,The Mist,3
+Unnamed,18,infested,insect,,,The Mist,0
+Mike,19,burns,acid,,,The Mist,0
+Bobby,20,burns,acid,,,The Mist,0
+Joe,21,burns,fire,,,The Mist,0
+Morales,22,suicide,noose,,,The Mist,0
+Donaldson,23,suicide,noose,,,The Mist,0
+Jessup,24,bite,bite,,,The Mist,0
+Carmody,25,shot (head),gun,,,The Mist,1
+Myron,26,bite,bite,,,The Mist,0
+Ollie,27,torn in half,claw,,,The Mist,0
+Ambrose,28,bite,bite,,,The Mist,0
+Stephanie Drayton,29,cocooned,insect,,,The Mist,1
+Unnamed,30,cocooned,insect,,,The Mist,1
+Billy Drayton,31,shot (head),gun,,,The Mist,0
+Amanda,32,shot (head),gun,,,The Mist,1
+Irene,33,shot (head),gun,,,The Mist,1
+Dan,34,shot (head),gun,,,The Mist,0
