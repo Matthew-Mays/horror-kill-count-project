@@ -380,37 +380,85 @@ Felix Davison,12,brain blended,blender,Yes,No,You're Next,0
 Zee,13,stab (head),knife,No,No,You're Next,1
 Crispian Davison,14,stab (head),knife,No,No,You're Next,0
 Trubiano,15,chop (head),axe,No,No,You're Next,0
-Unnamed,1,unknown,mist,,,The Mist,0
-Norm,2,ripped apart,tentacle,,,The Mist,0
-Norton,3,unknown,mist,,,The Mist,0
-Unnamed,4,unknown,mist,,,The Mist,0
-Unnamed,5,unknown,mist,,,The Mist,1
-Unnamed,6,unknown,mist,,,The Mist,0
-Unnamed,7,unknown,mist,,,The Mist,0
-Unnamed,8,unknown,mist,,,The Mist,0
-Unnamed,9,unknown,mist,,,The Mist,1
-Unnamed,10,torn in half,unknown,,,The Mist,0
-Tom,11,bite,bite,,,The Mist,0
-Sally,12,poisoned,insect,,,The Mist,1
-Hattie,13,suicide,pills,,,The Mist,1
-Unnamed,14,cocooned,insect,,,The Mist,3
-Unnamed,15,cocooned,insect,,,The Mist,3
-Unnamed,16,cocooned,insect,,,The Mist,3
-Unnamed,17,cocooned,insect,,,The Mist,3
-Unnamed,18,infested,insect,,,The Mist,0
-Mike,19,burns,acid,,,The Mist,0
-Bobby,20,burns,acid,,,The Mist,0
-Joe,21,burns,fire,,,The Mist,0
-Morales,22,suicide,noose,,,The Mist,0
-Donaldson,23,suicide,noose,,,The Mist,0
-Jessup,24,bite,bite,,,The Mist,0
-Carmody,25,shot (head),gun,,,The Mist,1
-Myron,26,bite,bite,,,The Mist,0
-Ollie,27,torn in half,claw,,,The Mist,0
-Ambrose,28,bite,bite,,,The Mist,0
-Stephanie Drayton,29,cocooned,insect,,,The Mist,1
-Unnamed,30,cocooned,insect,,,The Mist,1
-Billy Drayton,31,shot (head),gun,,,The Mist,0
-Amanda,32,shot (head),gun,,,The Mist,1
-Irene,33,shot (head),gun,,,The Mist,1
-Dan,34,shot (head),gun,,,The Mist,0
+Unnamed,1,unknown,mist,No,No,The Mist,0
+Norm,2,ripped apart,tentacle,No,No,The Mist,0
+Norton,3,unknown,mist,No,Yes,The Mist,0
+Unnamed,4,unknown,mist,No,Yes,The Mist,0
+Unnamed,5,unknown,mist,No,Yes,The Mist,1
+Unnamed,6,unknown,mist,No,Yes,The Mist,0
+Unnamed,7,unknown,mist,No,Yes,The Mist,0
+Unnamed,8,unknown,mist,No,Yes,The Mist,0
+Unnamed,9,unknown,mist,No,No,The Mist,1
+Unnamed,10,torn in half,unknown,No,No,The Mist,0
+Tom,11,bite,bite,No,No,The Mist,0
+Sally,12,poisoned,insect,No,No,The Mist,1
+Hattie,13,suicide,pills,No,No,The Mist,1
+Unnamed,14,cocooned,insect,No,No,The Mist,3
+Unnamed,15,cocooned,insect,No,No,The Mist,3
+Unnamed,16,cocooned,insect,No,No,The Mist,3
+Unnamed,17,cocooned,insect,No,No,The Mist,3
+Unnamed,18,infested,insect,No,No,The Mist,0
+Mike,19,burns,acid,Yes,No,The Mist,0
+Bobby,20,burns,acid,No,No,The Mist,0
+Joe,21,burns,fire,No,No,The Mist,0
+Morales,22,suicide,noose,No,No,The Mist,0
+Donaldson,23,suicide,noose,No,No,The Mist,0
+Jessup,24,bite,bite,No,No,The Mist,0
+Carmody,25,shot (head),gun,No,No,The Mist,1
+Myron,26,bite,bite,No,No,The Mist,0
+Ollie,27,torn in half,claw,No,No,The Mist,0
+Ambrose,28,bite,bite,No,No,The Mist,0
+Stephanie Drayton,29,cocooned,insect,No,No,The Mist,1
+Unnamed,30,cocooned,insect,No,No,The Mist,1
+Billy Drayton,31,shot (head),gun,No,No,The Mist,0
+Amanda,32,shot (head),gun,No,No,The Mist,1
+Irene,33,shot (head),gun,No,No,The Mist,1
+Dan,34,shot (head),gun,No,No,The Mist,0
+Emma,1,slash (throat),lollipop,No,No,Trick r' Treat,1
+Charlie,2,poisoned,poison,Yes,No,Trick r' Treat,0
+Unnamed,3,bludgeoned (head),shovel,No,No,Trick r' Treat,3
+Unnamed,4,bite,bite,No,No,Trick r' Treat,1
+Unnamed,5,drowned,crash,No,No,Trick r' Treat,3
+Unnamed,6,drowned,crash,No,No,Trick r' Treat,3
+Unnamed,7,drowned,crash,No,No,Trick r' Treat,3
+Unnamed,8,drowned,crash,No,No,Trick r' Treat,3
+Unnamed,9,drowned,crash,No,No,Trick r' Treat,3
+Unnamed,10,drowned,crash,No,No,Trick r' Treat,3
+Unnamed,11,drowned,crash,No,No,Trick r' Treat,3
+Unnamed,12,drowned,crash,No,No,Trick r' Treat,3
+Sarah,13,unknown,unknown,No,No,Trick r' Treat,1
+Macy,14,unknown,unknown,No,Yes,Trick r' Treat,1
+Chip,15,unknown,unknown,No,Yes,Trick r' Treat,0
+Schrader,16,unknown,unknown,No,Yes,Trick r' Treat,0
+Unnamed,17,slash (throat),unknown,No,No,Trick r' Treat,0
+Unnamed,18,unknown,unknown,No,No,Trick r' Treat,0
+Unnamed,19,unknown,unknown,No,No,Trick r' Treat,0
+Unnamed,20,unknown,unknown,No,No,Trick r' Treat,0
+Unnamed,21,unknown,unknown,No,No,Trick r' Treat,0
+Unnamed,22,unknown,unknown,No,No,Trick r' Treat,0
+Unnamed,23,unknown,unknown,No,No,Trick r' Treat,0
+Unnamed,24,unknown,unknown,No,No,Trick r' Treat,0
+Unnamed,25,unknown,unknown,No,No,Trick r' Treat,0
+Steven Wilkins,26,bite,bite,No,No,Trick r' Treat,0
+Kreeg,27,ripped apart,hands,No,No,Trick r' Treat,0
+Kane,1,stab (chest),chest burst,Yes,No,Alien,0
+Brett,2,stab (head),bite,No,No,Alien,0
+Dallas,3,unknown,unknown,No,Yes,Alien,0
+Ash,4,burns,fire,No,No,Alien,2
+Parker,5,stab (head),bite,No,No,Alien,0
+Lambert,6,unknown,unknown,No,No,Alien,1
+Unnamed,1,unknown,unknown,No,No,Aliens,1
+Unnamed,2,unknown,unknown,No,No,Aliens,0
+Unnamed,3,stab (chest),chest burst,Yes,No,Aliens,1
+Frost,4,falling,gravity,No,No,Aliens,0
+Dietrich,5,unknown,unknown,No,No,Aliens,1
+Crowe,6,explosion,bomb,No,No,Aliens,0
+Wierzbowski,7,unknown,unknown,No,No,Aliens,0
+Apone,8,unknown,unknown,No,No,Aliens,0
+Drake,9,burns,acid,No,No,Aliens,0
+Spunkmeyer,10,unknown,unknown,No,No,Aliens,0
+Ferro,11,stab (head),bite,No,No,Aliens,1
+Hudson,12,unknown,unknown,No,No,Aliens,0
+Carter J. Burke,13,stab (head),bite,No,Yes,Aliens,0
+Vasquez,14,explosion,grenade,No,No,Aliens,0
+Gorman,15,explosion,grenade,No,No,Aliens,1
