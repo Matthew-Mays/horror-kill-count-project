@@ -393,11 +393,11 @@ Unnamed,10,torn in half,unknown,No,No,The Mist,0
 Tom,11,bite,bite,No,No,The Mist,0
 Sally,12,poisoned,insect,No,No,The Mist,1
 Hattie,13,suicide,pills,No,No,The Mist,1
-Unnamed,14,cocooned,insect,No,No,The Mist,3
-Unnamed,15,cocooned,insect,No,No,The Mist,3
-Unnamed,16,cocooned,insect,No,No,The Mist,3
-Unnamed,17,cocooned,insect,No,No,The Mist,3
-Unnamed,18,infested,insect,No,No,The Mist,0
+Unnamed,14,cocooned,cocoon,No,No,The Mist,3
+Unnamed,15,cocooned,cocoon,No,No,The Mist,3
+Unnamed,16,cocooned,cocoon,No,No,The Mist,3
+Unnamed,17,cocooned,cocoon,No,No,The Mist,3
+Unnamed,18,infested,cocoon,No,No,The Mist,0
 Mike,19,burns,acid,Yes,No,The Mist,0
 Bobby,20,burns,acid,No,No,The Mist,0
 Joe,21,burns,fire,No,No,The Mist,0
@@ -408,8 +408,8 @@ Carmody,25,shot (head),gun,No,No,The Mist,1
 Myron,26,bite,bite,No,No,The Mist,0
 Ollie,27,torn in half,claw,No,No,The Mist,0
 Ambrose,28,bite,bite,No,No,The Mist,0
-Stephanie Drayton,29,cocooned,insect,No,No,The Mist,1
-Unnamed,30,cocooned,insect,No,No,The Mist,1
+Stephanie Drayton,29,cocooned,cocoon,No,No,The Mist,1
+Unnamed,30,cocooned,cocoon,No,No,The Mist,1
 Billy Drayton,31,shot (head),gun,No,No,The Mist,0
 Amanda,32,shot (head),gun,No,No,The Mist,1
 Irene,33,shot (head),gun,No,No,The Mist,1
@@ -462,3 +462,106 @@ Hudson,12,unknown,unknown,No,No,Aliens,0
 Carter J. Burke,13,stab (head),bite,No,Yes,Aliens,0
 Vasquez,14,explosion,grenade,No,No,Aliens,0
 Gorman,15,explosion,grenade,No,No,Aliens,1
+"Rebecca ""Newt"" Jorden",1,drowned,accident,No,No,Alien 3,1
+Dwayne Hicks,2,stab,spike,No,No,Alien 3,0
+Murphy,3,ground up,fan,No,No,Alien 3,0
+Rains,4,stab (head),bite,No,No,Alien 3,0
+Boggs,5,stab (head),bite,No,No,Alien 3,0
+Bishop,6,deactivated,deactivated,No,No,Alien 3,3
+Clemens,7,stab (head),bite,Yes,No,Alien 3,0
+Andrews,8,unknown,unknown,No,No,Alien 3,0
+Frank,9,stab (head),bite,No,No,Alien 3,0
+Unnamed,10,explosion,explosive,No,No,Alien 3,0
+Unnamed,11,explosion,explosive,No,No,Alien 3,0
+Unnamed,12,explosion,explosive,No,No,Alien 3,0
+Unnamed,13,explosion,explosive,No,No,Alien 3,0
+Unnamed,14,explosion,explosive,No,No,Alien 3,0
+Unnamed,15,explosion,explosive,No,No,Alien 3,0
+Unnamed,16,explosion,explosive,No,No,Alien 3,0
+Unnamed,17,explosion,explosive,No,No,Alien 3,0
+Unnamed,18,explosion,explosive,No,No,Alien 3,0
+Vincent,19,bite,bite,No,No,Alien 3,0
+Troy,20,unknown,unknown,No,Yes,Alien 3,0
+David,21,stab (head),bite,No,No,Alien 3,0
+Kevin,22,bite,bite,No,No,Alien 3,0
+Eric,23,unknown,unknown,No,No,Alien 3,0
+William,24,unknown,unknown,No,No,Alien 3,0
+Jude,25,unknown,unknown,No,No,Alien 3,0
+Gregor,26,slash (throat),unknown,No,No,Alien 3,0
+Dillon,27,burns,molten metal,No,No,Alien 3,0
+Aaron,28,shot,gun,No,No,Alien 3,0
+Ellen Ripley,29,suicide,molten metal,No,No,Alien 3,1
+Unnamed,1,slash,axe,No,No,ThanksKilling,1
+Unnamed,2,shot (head),gun,No,No,ThanksKilling,0
+Unnamed,3,decapitated,knife,No,No,ThanksKilling,0
+Unnamed,4,eyes gouged,beak,No,No,ThanksKilling,1
+Unnamed,5,slash (throat),unknown,No,No,ThanksKilling,0
+Ali,6,neck snapped,hands,No,Yes,ThanksKilling,1
+Roud,7,unknown,unknown,No,No,ThanksKilling,0
+Billy Drayton,8,stab (chest),unknown,No,No,ThanksKilling,0
+Darren,9,stab (chest),beak,Yes,No,ThanksKilling,0
+Johnny,10,stab (gut),knife,No,No,ThanksKilling,0
+Unnamed,1,shot (chest),gun,No,No,Alien Resurrection,0
+Unnamed,2,shot (chest),gun,No,No,Alien Resurrection,0
+Unnamed,3,shot (chest),gun,No,No,Alien Resurrection,0
+Unnamed,4,shot (chest),gun,No,No,Alien Resurrection,0
+Unnamed,5,shot (chest),gun,No,No,Alien Resurrection,0
+Unnamed,6,shot (chest),gun,No,No,Alien Resurrection,0
+Unnamed,7,shot (head),gun,No,No,Alien Resurrection,0
+Unnamed,8,frozen,liquid nitrogen,No,No,Alien Resurrection,0
+Unnamed,9,unknown,unknown,No,No,Alien Resurrection,0
+Unnamed,10,unknown,unknown,No,No,Alien Resurrection,0
+Unnamed,11,unknown,unknown,No,No,Alien Resurrection,0
+Unnamed,12,unknown,unknown,No,No,Alien Resurrection,0
+Unnamed,13,unknown,unknown,No,No,Alien Resurrection,0
+Unnamed,14,unknown,unknown,No,No,Alien Resurrection,0
+Perez,15,stab (head),bite,No,No,Alien Resurrection,0
+Elgyn,16,stab (back),bite,No,No,Alien Resurrection,0
+Unnamed,17,stab (chest),chest burst,No,No,Alien Resurrection,0
+Unnamed,18,stab (chest),chest burst,No,No,Alien Resurrection,0
+Unnamed,19,stab (chest),chest burst,No,No,Alien Resurrection,0
+Unnamed,20,stab (chest),chest burst,No,No,Alien Resurrection,0
+Unnamed,21,stab (chest),chest burst,No,No,Alien Resurrection,0
+Hillard,22,unknown,unknown,No,No,Alien Resurrection,1
+Christy,23,drowned,water,No,Yes,Alien Resurrection,0
+Purvis,24,stab (chest),chest burst,Yes,No,Alien Resurrection,0
+Wren,25,stab (head),bite,No,No,Alien Resurrection,0
+Unnamed,26,cocooned,cocoon,No,No,Alien Resurrection,0
+Unnamed,27,cocooned,cocoon,No,No,Alien Resurrection,0
+Unnamed,28,cocooned,cocoon,No,No,Alien Resurrection,0
+Gediman,29,bite,bite,No,No,Alien Resurrection,0
+Distephano,30,head crushed,hands,No,No,Alien Resurrection,0
+Clare,1,suffocated,bag,No,No,Black Christmas,1
+Mac,2,stab (head),hook,No,No,Black Christmas,1
+Janice Quaife,3,unknown,unknown,No,No,Black Christmas,1
+Barb,4,stab,glass,Yes,No,Black Christmas,1
+Phyl,5,unknown,unknown,No,Yes,Black Christmas,1
+Jennings,6,slash (throat),unknown,No,No,Black Christmas,0
+Peter,7,unknown,spike,No,No,Black Christmas,0
+Lindsay,1,stab (chest),icicle,No,No,Black Christmas (2006 Remake),1
+Franny,2,suffocated,wire,No,No,Black Christmas (2006 Remake),1
+Jesse,3,chop (head),axe,No,Yes,Black Christmas (2006 Remake),1
+Nate,4,shot (head),arrow,No,No,Black Christmas (2006 Remake),0
+Unnamed,5,stab (throat),keys,Yes,No,Black Christmas (2006 Remake),0
+Marty,6,chop (gut),axe,No,No,Black Christmas (2006 Remake),1
+Unnamed,7,stab (head),knife,No,No,Black Christmas (2006 Remake),0
+Unnamed,8,stab (chest),glass,No,No,Black Christmas (2006 Remake),0
+Gil O'Leary,9,stab (back),knife,No,No,Black Christmas (2006 Remake),0
+Unnamed,10,suffocated,bag,No,No,Black Christmas (2006 Remake),0
+Helena,11,neck snapped,hands,No,No,Black Christmas (2006 Remake),1
+Unnamed,12,shot (back),arrow,No,No,Black Christmas (2006 Remake),0
+Gelson,13,burns,fire,No,No,Black Christmas (2006 Remake),0
+Brian Huntley,14,burns,fire,No,No,Black Christmas (2006 Remake),0
+Phil,15,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,16,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,17,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,18,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,19,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,20,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,21,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,22,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,23,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,24,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,25,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,26,burns,fire,No,No,Black Christmas (2006 Remake),0
+Unnamed,27,burns,fire,No,No,Black Christmas (2006 Remake),0
