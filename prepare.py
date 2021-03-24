@@ -13,3 +13,9 @@ def pop_cat(df):
 def add_movie_features(df):
     kpm(df)
     pop_cat(df)
+
+# Fuction for splitting data into train, validate, and test dataframes
+def data_split(df):
+    train_validate, test = train_test_split(df, test_size=.25, random_state=123)
+    train, validate = train_test_split(train_validate, test_size=.4, random_state=123)
+    return train, validate, test
